@@ -1,0 +1,11 @@
+D:\Projects\TechManagement\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+D:\Projects\TechManagement\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+D:\Projects\TechManagement\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+D:\Projects\TechManagement\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll

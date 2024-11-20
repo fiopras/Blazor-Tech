@@ -1,0 +1,17 @@
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\Projects\TechManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+D:\Projects\TechManagement\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll

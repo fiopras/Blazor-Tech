@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\TechManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|d:\\projects\\techmanagement\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|d:\\projects\\techmanagement\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|d:\\projects\\techmanagement\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\generaldepartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\generaldepartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|d:\\projects\\techmanagement\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|d:\\projects\\techmanagement\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1679CBDF-8BD4-49AD-84C4-145780DBEF01}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|d:\\projects\\techmanagement\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF924E4D-08C0-4053-B2A9-91BE35F55863}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\entities\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|d:\\projects\\techmanagement\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{686185D9-9443-4B10-83D5-9343C9762081}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:50:20.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\Constants.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:40:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:11:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\TechManagement\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T13:08:54.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:59:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountBase.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:55:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:59:44.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:53:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Town.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Town.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Town.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Town.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Town.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:48:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Employee.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:43:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:03:43.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralDepartement.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\GeneralDepartement.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\GeneralDepartement.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\GeneralDepartement.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\GeneralDepartement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:47:22.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:57:35.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:57:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:54:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:55:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "D:\\Projects\\TechManagement\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T12:02:31.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:57:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Responses\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\LoginResponse.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Responses\\LoginResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:58:04.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:52:28.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Ticket.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:45:27.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServerLibrary",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
+              "ToolTip": "D:\\Projects\\TechManagement\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:59:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Branch.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:48:39.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Server",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "D:\\Projects\\TechManagement\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:39:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Departement.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Departement.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\Departement.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Departement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:48:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:44:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseLibrary",
+              "DocumentMoniker": "D:\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
+              "ToolTip": "D:\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeToolTip": "BaseLibrary\\BaseLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:36:47.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
