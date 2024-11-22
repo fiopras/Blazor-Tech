@@ -1,0 +1,31 @@
+# .NET build directories
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+
+# ASP.NET Core settings
+appsettings.Development.json
+appsettings.Production.json
+
+# Windows Installer files
+*.cab
+*.msi
+
+# Mac OS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# Microsoft Visual Studio files
+.vs/
+.vs2019/
