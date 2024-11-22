@@ -85,6 +85,20 @@ namespace ServerLibrary.Repositories.Implementations
 
             string jwtToken = GenerateToken(applicationUser, getRoleName!.Name!);
             string refreshToken = GenerateRefreshToken();
+
+            // Save the Refresh token to the database
+
+            var findUser = await _appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.UserId == applicationUser.Id);
+            if (findUser is not null) {
+                findUser!.Token = refreshToken;
+                await _appDbContext.SaveChangesAsync();
+            } else {
+                await AddToDatabase(new RefreshTokenInfo() {
+                    Token = refreshToken,
+                    UserId = applicationUser.Id
+                }); 
+            }
+
             return new LoginResponse(true, "Login Successful", jwtToken, refreshToken);
 
         }
@@ -130,19 +144,29 @@ namespace ServerLibrary.Repositories.Implementations
             await _appDbContext.SaveChangesAsync();
             return (T)result.Entity;
         }
-
-        public Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
+        public async Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
         {
-            throw new NotImplementedException();
+            if (token is null) return new LoginResponse(false, "Modal is empty");
+
+            var findToken = await _appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.Token!.Equals(token.Token));
+            if (findToken is null) return new LoginResponse(false, "Refresh token is required");
+
+            //get user details
+            var user = await _appDbContext.ApplicationUsers.FirstOrDefaultAsync(_ => _.Id == findToken.UserId);
+            if (user is null) return new LoginResponse(false, "Refresh token could not be generated bacause user not found");
+
+            var userRole = await FindUserRole(user.Id);
+            var roleName = await FindRoleName(userRole.Id);
+            string jwtToken = GenerateToken(user, roleName.Name!);
+            string refreshToken = GenerateRefreshToken();
+
+            var updateRefreshToken = await _appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.UserId == user.Id);
+            if (updateRefreshToken is null) return new LoginResponse(false, "Refresh token could not be generated because user has not sign");
+
+            updateRefreshToken.Token = refreshToken;
+            await _appDbContext.SaveChangesAsync();
+            return new LoginResponse(true, "Token Refresh Successfuly", jwtToken, refreshToken);
+
         }
-
-        //public Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
-        //{
-        //    if (token is null) return new LoginResponse(false, "Modal is empty");
-
-        //    var findToken = await _appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.Token!.Equals(token.Token));
-        //    if (findToken is null) return new LoginResponse(false, "Refresh token is required");
-
-        //}
     }
 }
