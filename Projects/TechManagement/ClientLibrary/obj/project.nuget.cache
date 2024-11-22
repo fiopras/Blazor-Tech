@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HwiF2Qg8RgY=",
+  "dgSpecHash": "IHasV0JrGwVQOe6ibWGwqn0r1Cepp1D3kL1XGl9n5+B+b+KBWxUGJ1MzI06TNi5gvTTcq52u1Fd3VNn4s6Kupw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TechManagement\\ClientLibrary\\ClientLibrary.csproj",
+  "projectFilePath": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\ClientLibrary\\ClientLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

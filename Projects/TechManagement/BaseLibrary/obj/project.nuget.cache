@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B0LMDCTyEUc=",
+  "dgSpecHash": "7JYREEgjRKACB0yk+ek3ENJkO9sCiG7l0rFoljwwclwAOLmB1Yr2QbGDLGbbAhPC0j+YMOtxmOI58sOGiSTaCQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
+  "projectFilePath": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pras-PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Pras-PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\mk.fio.prasetyo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mk.fio.prasetyo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

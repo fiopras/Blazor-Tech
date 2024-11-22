@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\obj\\Debug\\net8.0\\compressed\\83z89cj8bl.gz",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\obj\\Debug\\net8.0\\compressed\\uzjts5tn0a.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
       "PackagePath": "staticwebassets\\Client.styles.css"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\css\\app.css",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\favicon.png",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\icon-192.png",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\index.html",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Projects\\TechManagement\\Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

@@ -10,3 +10,16 @@ D:\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
 D:\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
 D:\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
 D:\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+D:\git\Blazor-Tech\Projects\TechManagement\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

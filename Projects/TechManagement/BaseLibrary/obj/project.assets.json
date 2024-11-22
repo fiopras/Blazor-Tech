@@ -121,19 +121,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pras-PC\\.nuget\\packages\\": {}
+    "C:\\Users\\mk.fio.prasetyo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
+      "projectUniqueName": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
       "projectName": "BaseLibrary",
-      "projectPath": "D:\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
-      "packagesPath": "C:\\Users\\Pras-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\TechManagement\\BaseLibrary\\obj\\",
+      "projectPath": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\BaseLibrary\\BaseLibrary.csproj",
+      "packagesPath": "C:\\Users\\mk.fio.prasetyo\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\Blazor-Tech\\Projects\\TechManagement\\BaseLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pras-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mk.fio.prasetyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -141,7 +141,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -154,11 +153,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -186,7 +180,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
